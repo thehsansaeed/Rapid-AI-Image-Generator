@@ -47,12 +47,12 @@
     "eslint": "^8.56.0",
     "ts-loader": "^9.5.1",
     "typescript": "^5.3.3",
-    "webpack": "^5.89.0",
+    "webpack": "^5.98.0",
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
     "@types/axios": "^0.14.0",
-    "axios": "^1.6.7",
+    "axios": "^1.7.9",
     "base-64": "^1.0.0",
     "child_process": "^1.0.2",
     "fs-extra": "^11.2.0",
